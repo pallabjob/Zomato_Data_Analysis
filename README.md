@@ -1,9 +1,37 @@
 # Zomato_Data_Analysis
-Project Objective: In this project I have divided into some section for analysing the total project. I have focused on Type of restaurant, How many votes has each type of restaurant received from customers, Majority of restaurants received how many ratings, Average spending on each order, Which mode (online or offline) has received maximum ratings, Which type of restaurants received more offline orders so that zomato can provides those customers with some good offers.
-Conclusion: 
-Majority of resturant falls in dinning category
-Dinning resturants has received maximum votes 
-The majority resturants received ratings from 3.5 to 4 
-The majority of couples prefer resturants with an approximate cost of 300 rupees
-Offline order received lower rating in comparision to online order
-Dinning restaurants primarily accept offline orders, whereas cafesprimarily receive online orders. This suggests that clients prefers to placeorders in person at restaurants, but prefer online ordering at cafes
+Project Title: Analysis of Restaurant Types, Customer Preferences, and Ordering Trends on Zomato
+
+Objective:
+To analyze various aspects of restaurants listed on Zomato, including types of restaurants, customer voting patterns, rating trends, average spending, and preferences for online versus offline ordering. The goal is to derive insights that can help Zomato optimize its services and offers.
+
+Key Sections and Findings:
+
+Type of Restaurant:  
+Categorized restaurants to understand distribution across different types.
+
+Customer Votes Analysis: 
+Analyzed the number of votes each type of restaurant received from customers.
+Finding: Dining restaurants received the maximum votes.
+
+Rating Analysis: 
+Identified the range of ratings that the majority of restaurants received.
+Finding: Most restaurants received ratings between 3.5 to 4.
+
+Average Spending Per Order:
+Calculated the average cost per order to identify spending patterns.
+Finding: Majority of couples prefer restaurants with an approximate cost of 300 rupees.
+
+Mode of Ordering Analysis:
+Compared ratings for online and offline orders to determine customer satisfaction.
+Finding: Offline orders received lower ratings compared to online orders.
+
+Order Mode Preferences by Restaurant Type:
+Examined which types of restaurants received more offline versus online orders.
+Finding: Dining restaurants primarily accept offline orders, whereas cafes primarily receive online orders.
+
+Conclusion:
+Dining restaurants dominate the majority category and receive the highest number of votes.
+Most restaurants have ratings in the 3.5 to 4 range.
+Couples tend to spend around 300 rupees per order.
+Offline orders generally have lower ratings compared to online orders.
+Clients prefer to place orders in person at dining restaurants but opt for online ordering at cafes
